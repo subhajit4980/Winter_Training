@@ -1,0 +1,21 @@
+{
+    "accesskey": "a1cb8032-9657-11ed-9a93-c48e8fa920d4",
+    "secretkey": "59a0ae30-8517-46f4-bc03-41e911d464e8",
+    "item_types": [
+        "food",
+        "Brevarage",
+        "clothing",
+        "stationaries",
+        "electronics devices",
+        "wearables"
+    ],
+    "users": [
+        {
+            "name": "subahjit",
+            "email": "sujbdckjshc",
+            "password": "dcvdsvr",
+            "username": "rvrev",
+            "purchase": {}
+        }
+    ]
+}
