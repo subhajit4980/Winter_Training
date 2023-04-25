@@ -1,6 +1,6 @@
 {
-    "accesskey": "a1cb8032-9657-11ed-9a93-c48e8fa920d4",
-    "secretkey": "59a0ae30-8517-46f4-bc03-41e911d464e8",
+    "accesskey": "a7831da2-97d8-11ed-b4ca-c48e8fa920d4",
+    "secretkey": "f2853090-c348-4bf4-a43c-3e6498ea76fe",
     "item_types": [
         "food",
         "Brevarage",
@@ -11,11 +11,41 @@
     ],
     "users": [
         {
-            "name": "subahjit",
-            "email": "sujbdckjshc",
-            "password": "dcvdsvr",
-            "username": "rvrev",
+            "name": "subhajit",
+            "email": "sudip@gmail",
+            "password": "abcd",
+            "username": "sudip",
             "purchase": {}
+        },
+        {
+            "name": "sudip",
+            "email": "sudip1@gmail",
+            "password": "abcd",
+            "username": "sudip",
+            "purchase": {
+                "2023-01-19": [
+                    {
+                        "item_name": "tea",
+                        "item_type": "Brevarage",
+                        "item_price": "10",
+                        "purchase_time": "2023-01-19 14:40:47.783369+05:30"
+                    },
+                    {
+                        "item_name": "coffee",
+                        "item_type": "Brevarage",
+                        "item_price": "10",
+                        "purchase_time": "2023-01-19 14:41:05.124009+05:30"
+                    }
+                ],
+                "2023-01-18": [
+                    {
+                        "item_name": "juices",
+                        "item_type": "Brevarage",
+                        "item_price": "10",
+                        "purchase_time": "2023-01-19 14:41:05.124009+05:30"
+                    }
+                ]
+            }
         }
     ]
 }

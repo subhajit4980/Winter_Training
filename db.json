@@ -9,5 +9,13 @@
         "electronics devices",
         "wearables"
     ],
-    "users": []
+    "users": [
+        {
+            "name": "sudip",
+            "email": "sudip@gmail",
+            "password": "abcd",
+            "username": "sudip",
+            "purchase": {}
+        }
+    ]
 }

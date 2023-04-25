@@ -1,0 +1,44 @@
+# User
+    -id
+    -username
+# PersonalDetails
+    -id
+    -name
+    -phone
+    -email
+    -address
+    -linkedin_url
+    -foreign_key('user_id')
+# Projects
+    -id
+    -name
+    -desc
+    -start_date
+    -end_date
+    -foreign_key('user_id')
+- Experience
+    - id
+    - company_name
+    - Role
+    - role_desc
+    - start_date
+    - end_date
+    - foreign_key('user_id')
+- Education
+    - id
+    - school_name
+    - degree_name
+    - start_date
+    - end_date
+    - foreign_key('user_id')
+- Certificate
+    - id
+    - title
+    - start_date
+    - end_date
+    - foreign_key('user_id')
+- skills
+    - id
+    - title
+    - confidence_score
+    - foreign_key('user_id')
